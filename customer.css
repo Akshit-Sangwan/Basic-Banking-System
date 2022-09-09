@@ -1,0 +1,110 @@
+body{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    background: url("/images/coins.jpg") no-repeat center center ; 
+    text-align: center;
+    margin: 0;
+}
+
+.bg-light{
+    background-color: #f2e9e4!important;
+}
+
+.navbar-brand{
+    font-family: "Papyrus", fantasy;
+    font-size: 2rem;
+    font-weight: 900;
+    color: rgb(75, 4, 4);
+    margin-left: 2%;
+}
+
+h6{
+    margin-bottom: 10px;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.bank-logo{
+    padding-left: 2rem;
+    height: 60px;
+    width: 60x;
+}
+
+.nav-link{
+    color: rgb(119, 28, 28);
+    font-size: 1.2rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    padding: 0 2px;
+}
+
+.nav-link:hover{
+    background-color: #dcd0d0;
+}
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(20, 116, 206)!important;
+    color: rgb(255, 255, 255)!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(216, 218, 238)!important;
+}
+
+.bottom-container
+{
+    background-color: rgb(189, 189, 216);
+    height: 100px;
+    background-image: url(https://images.pexels.com/photos/1242348/pexels-photo-1242348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px auto 40px;
+}
+
+.footer-link
+{
+    color: #7b3a3a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px 10px;
+    text-decoration: none;
+}
+
+.footer-link:hover
+{
+    color: #8b0000;
+}
+
+#linkedin-logo
+{
+    width: auto;
+    height: 40px;
+    margin: 10px auto;
+}
+
+#linkedin-logo-box
+{
+    display: inline-block;
+    padding: 0 20px;
+}
+
+#github-logo
+{
+    width: auto;
+    height: 38px;
+    margin: 10px auto;
+    
+}
+
+.copyright
+{
+    color: rgb(255,255,240);
+    font-size: 0.8rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px auto 2px;
+}
