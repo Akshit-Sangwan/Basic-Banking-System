@@ -1,6 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
-    background: url("/images/coins.jpg") no-repeat center center ; 
+    background: url("images/coins.jpg") no-repeat center center ; 
     text-align: center;
     margin: 0;
 }
