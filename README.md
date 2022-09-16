@@ -14,7 +14,11 @@ This is a <b>Basic Banking System</b> website which I made during my internship 
 4. Transaction history which contains the record of all the past transactions.
 
 Task#1 : Basic Banking System
+<br>
 Domain : Web Development and Design
+<br>
 IDE : VS code
+<br>
 Languages/Frameworks : HTML, CSS, Bootstrap & Javascript
+<br>
 Website : https://lnkd.in/d3jy24-M
